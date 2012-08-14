@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1178693341 source:c:\code\projects\39dll\list.cpp
+	"list.h"
+
+1178693341 c:\code\projects\39dll\list.h
+	"includes.h"
+
+1166511692 c:\code\projects\39dll\includes.h
+	<windows.h>
+	<Assert.h>
+	<stdio.h>
+	<string.h>
+
+1178693573 source:c:\code\projects\39dll\main.cpp
+	"includes.h"
+	"tools.h"
+	"socket.h"
+	"buffer.h"
+	"list.h"
+
+1178693413 c:\code\projects\39dll\tools.h
+	"includes.h"
+	"buffer.h"
+	<Iphlpapi.h>
+	<Wininet.h>
+
+1166589227 c:\code\projects\39dll\buffer.h
+	"includes.h"
+
+1178693541 c:\code\projects\39dll\socket.h
+	"includes.h"
+	"buffer.h"
+
+1178693424 source:c:\code\projects\39dll\md5.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1180335549 source:c:\code\projects\39dll\socket.cpp
+	"socket.h"
+
+1166854831 source:c:\code\projects\39dll\buffer.cpp
+	"buffer.h"
+
+1178693463 source:c:\code\projects\39dll\tools.cpp
+	"tools.h"
+
